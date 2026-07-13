@@ -1,4 +1,4 @@
-# ☁️ Highly Available 3-Tier Web Architecture on AWS
+#  Highly Available 3-Tier Web Architecture on AWS
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -6,21 +6,28 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-## 📌 Project Overview
+##  Project Overview
 This project demonstrates the design and implementation of an enterprise-grade, highly available, and scalable **3-Tier Web Architecture** entirely on Amazon Web Services (AWS). 
 
 The infrastructure is built with a strong focus on **Security (Zero-Trust/Chain of Trust)**, **High Availability (Multi-AZ)**, and **Self-Healing capabilities** utilizing Auto Scaling and Load Balancing to ensure zero downtime during traffic spikes or hardware failures.
 
-**Author:** Lê Gia Hòa - *Cloud & Network Engineering Intern*
+## Author
+
+**Lê Gia Hòa**
+* **Role:** Cloud & Network Engineering Intern | Systems & MLOps Enthusiast
+* **University:** VNU-HCM University of Information Technology (UIT)
+* **Email:** [legiahoa1515@gmail.com](mailto:legiahoa1515@gmail.com)
+* **LinkedIn:** [linkedin.com/in/legiahoa](https://www.linkedin.com/in/legiahoa)
+* **GitHub:** [github.com/legiahoa](https://github.com/legiahoa)
 
 ---
 
-## 🏛️ Architecture Diagram
+##  Architecture Diagram
 *(Please replace this text and the image below with your actual architecture diagram)*
 
 ![3-Tier Architecture Diagram](https://via.placeholder.com/800x400.png?text=AWS+3-Tier+Architecture+Diagram)
 
-### 🚀 Core Cloud Concepts Applied:
+###  Core Cloud Concepts Applied:
 1. **High Availability (HA):** Infrastructure spans across two Availability Zones (AZs). If one data center goes down, the system continues to operate seamlessly.
 2. **Strict Security Isolation:** 
    - Web servers (EC2) and Database (RDS) are isolated in **Private Subnets**. 
@@ -31,7 +38,7 @@ The infrastructure is built with a strong focus on **Security (Zero-Trust/Chain 
 
 ---
 
-## 🛠️ Tech Stack & AWS Services
+##  Tech Stack & AWS Services
 * **Networking:** Amazon VPC, Internet Gateway, NAT Gateway, Route Tables, Subnets (Public, Private App, Private Data).
 * **Compute:** Amazon EC2, Auto Scaling Group (ASG), Application Load Balancer (ALB), Launch Templates.
 * **Database:** Amazon RDS (MySQL) with Multi-AZ Deployment.
@@ -40,7 +47,7 @@ The infrastructure is built with a strong focus on **Security (Zero-Trust/Chain 
 
 ---
 
-## 🧪 System Validation & Chaos Engineering
+##  System Validation & Chaos Engineering
 
 To prove the reliability and resilience of this architecture, I conducted the following real-world stress tests and failure simulations:
 
@@ -66,7 +73,7 @@ To prove the reliability and resilience of this architecture, I conducted the fo
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 ```text
 aws-3tier-web-architecture/
 ├── architecture/            
