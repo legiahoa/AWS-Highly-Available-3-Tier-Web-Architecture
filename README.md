@@ -12,7 +12,14 @@ This project demonstrates the design and implementation of an enterprise-grade, 
 
 The infrastructure is built with a strong focus on **Security (Zero-Trust/Chain of Trust)**, **High Availability (Multi-AZ)**, and **Self-Healing capabilities** utilizing Auto Scaling and Load Balancing to ensure zero downtime during traffic spikes or hardware failures.
 
-**Author:** Lê Gia Hòa - *Cloud & Network Engineering Intern*
+## Author
+
+**Lê Gia Hòa**
+* **Role:** Cloud & Network Engineering Intern | Systems & MLOps Enthusiast
+* **University:** VNU-HCM University of Information Technology (UIT)
+* **Email:** [legiahoa1515@gmail.com](mailto:legiahoa1515@gmail.com)
+* **LinkedIn:** [linkedin.com/in/legiahoa](https://www.linkedin.com/in/legiahoa)
+* **GitHub:** [github.com/legiahoa](https://github.com/legiahoa)
 
 ---
 
