@@ -156,19 +156,3 @@ To prove the reliability and resilience of this architecture, I conducted the fo
 <p align="center">
   <img src="https://via.placeholder.com/800x400.png?text=ASG+Self+Healing+Log+Screenshot" width="800">
 </p>
----
-
-##  Repository Structure
-
-```text
-aws-3tier-web-architecture/
-├── architecture/
-│   └── 3tier-diagram.png
-├── demo-evidence/
-│   ├── asg-scale-out.png
-│   ├── self-healing.png
-│   └── db-isolation.png
-├── scripts/
-│   └── ec2-user-data.sh
-└── README.md
-```
