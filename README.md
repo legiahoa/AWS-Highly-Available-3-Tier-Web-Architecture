@@ -1,6 +1,4 @@
 #  Highly Available 3-Tier Web Architecture on AWS
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8eca6f65-5079-44e8-bea0-26faac1ad6b9" />
-
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -27,9 +25,7 @@ The infrastructure is built with a strong focus on **Security (Zero-Trust/Chain 
 
 ##  Architecture Diagram
 
-*(Please replace this text and the image below with your actual architecture diagram)*
-
-![3-Tier Architecture Diagram](https://via.placeholder.com/800x400.png?text=AWS+3-Tier+Architecture+Diagram)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8eca6f65-5079-44e8-bea0-26faac1ad6b9" />
 
 ###  Core Cloud Concepts Applied
 
