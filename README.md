@@ -135,7 +135,8 @@ To prove the reliability and resilience of this architecture, I conducted the fo
 **Evidence**
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=CloudWatch+CPU+Spike+Screenshot" width="800">
+  <img width="2868" height="1296" alt="Screenshot 2026-07-15 164620" src="https://github.com/user-attachments/assets/2f8746fd-d0ad-43fc-b43d-0b56d08e39fc" />
+   <img width="2842" height="1256" alt="image" src="https://github.com/user-attachments/assets/d7a43a0c-1417-4248-bc3b-1fa498971a6a" />
 </p>
 
 ### Scenario 2: Hardware Failure & Self-Healing (Chaos Engineering)
