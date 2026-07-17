@@ -129,8 +129,8 @@ To prove the reliability and resilience of this architecture, I conducted the fo
 
 ### Scenario 1: Traffic Spike & Auto Scaling (Stress Test)
 
-- **Action:** Used `Artillery` to simulate a sudden traffic spike by sending 10,000+ requests to the ALB in a short period.
-- **Result:** CloudWatch detected CPU utilization exceeding the 50% threshold. The Auto Scaling Group dynamically provisioned additional EC2 instances to handle the load. Zero requests were dropped.
+- **Action:** Used `Artillery` to simulate a sudden traffic spike by sending over 150,000 requests to the ALB in a short period.
+- **Result:** Due to the lightweight nature of the PHP application, the EC2 instances handled the massive traffic efficiently, with CPU utilization peaking at **10.7%**. To successfully demonstrate the scale-out capability in this environment, the Auto Scaling target tracking threshold was intentionally adjusted to **5%**. CloudWatch successfully detected the threshold breach, and the Auto Scaling Group dynamically provisioned additional EC2 instances. Zero requests were dropped.
 
 **Evidence**
 
