@@ -155,6 +155,11 @@ To prove the reliability and resilience of this architecture, I conducted the fo
 - **Action:** Attempted to connect directly to the RDS endpoint from the Internet.
 - **Result:** Connection timed out because the database is located in a Private Subnet and only accepts traffic from the EC2 Security Group.
 
+**Evidence**
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=ASG+Self+Healing+Log+Screenshot" width="800">
+</p>
 ---
 
 ##  Repository Structure
