@@ -143,7 +143,8 @@ To prove the reliability and resilience of this architecture, I conducted the fo
 **Evidence**
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=ASG+Self+Healing+Log+Screenshot" width="800">
+   <img width="2880" height="870" alt="image" src="https://github.com/user-attachments/assets/6afdcda2-6bf6-4b43-bd13-e1bdd361edbd" />
+  <img width="2880" height="1442" alt="image" src="https://github.com/user-attachments/assets/fa02c91d-031f-435e-b72d-672af9e6fcc0" />
 </p>
 
 ### Scenario 3: Database Security Isolation
