@@ -155,5 +155,6 @@ To prove the reliability and resilience of this architecture, I conducted the fo
 **Evidence**
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=ASG+Self+Healing+Log+Screenshot" width="800">
+  <img width="2248" height="1326" alt="image" src="https://github.com/user-attachments/assets/fb3ace0b-6982-4fa0-85a1-9df3d900362d" />
+   <img width="1814" height="524" alt="Screenshot 2026-07-18 163754" src="https://github.com/user-attachments/assets/cecdd9a2-ea03-4278-973b-895cbb5b052c" />
 </p>
